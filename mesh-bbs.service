@@ -5,6 +5,7 @@ After=multi-user.target
 [Service]
 Type=simple
 Restart=always
+RuntimeMaxSec=3600
 RestartSec=20
 User=pi
 WorkingDirectory=/home/pi/TC2-BBS-mesh
