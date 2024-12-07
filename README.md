@@ -65,7 +65,7 @@ If you're a Docker user, TC²-BBS Meshtastic is available on Docker Hub!
 5. Rename `example_config.ini`:
 
    ```sh
-   mv example_config.ini config.ini
+   cp example_config.ini config.ini
    ```
 
 6. Set up the configuration in `config.ini`:  
