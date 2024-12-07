@@ -39,7 +39,7 @@ If you're a Docker user, TC²-BBS Meshtastic is available on Docker Hub!
 2. Set up a Python virtual environment:  
    
    ```sh
-   python -m venv venv
+   python3 -m venv venv
    ```
 
 3. Activate the virtual environment:  
